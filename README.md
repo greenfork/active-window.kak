@@ -4,6 +4,8 @@
 Cursor is colored only in the active window. Inactive windows have grey cursor.
 
 ## Installation
+With [plug](https://github.com/andreyorst/plug.kak):
+
 `plug 'greenfork/active-window.kak'`
 
 ## Options
