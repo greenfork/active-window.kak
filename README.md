@@ -3,7 +3,7 @@
 
 Cursor is colored only in the active window. Inactive windows have grey cursor.
 
-<a href="https://asciinema.org/a/315721"><img src="https://asciinema.org/a/315721.png" width="836"/></a>
+[Watch demo](https://asciinema.org/a/315721)
 
 ## Installation
 With [plug](https://github.com/andreyorst/plug.kak):
