@@ -15,5 +15,12 @@ Customize `InactiveCursor` face:
 
 `set-face global InactiveCursor default,rgb:5d5d5d`
 
+## Using with tmux
+Add this option to your `.tmux.conf`:
+```
+# Allow using FocusIn and FocusOut hooks
+set-option -g focus-events on
+```
+
 ## License
 Unlicense. See LICENSE file.
