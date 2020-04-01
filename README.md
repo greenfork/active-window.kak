@@ -3,6 +3,8 @@
 
 Cursor is colored only in the active window. Inactive windows have grey cursor.
 
+[![asciicast](https://asciinema.org/a/315721.png)](https://asciinema.org/a/315721)
+
 ## Installation
 With [plug](https://github.com/andreyorst/plug.kak):
 
