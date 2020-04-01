@@ -1,4 +1,4 @@
-set-face global InactiveCursor default,rgb:5d5d5d
+set-face global InactiveCursor default,bright-black
 
 hook global FocusIn .* %{
     set-face window PrimaryCursor PrimaryCursor
