@@ -3,7 +3,7 @@
 
 Cursor is colored only in the active window. Inactive windows have grey cursor.
 
-[![asciicast](https://asciinema.org/a/315721.png)](https://asciinema.org/a/315721)
+<a href="https://asciinema.org/a/315721"><img src="https://asciinema.org/a/315721.png" width="836"/></a>
 
 ## Installation
 With [plug](https://github.com/andreyorst/plug.kak):
