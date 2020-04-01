@@ -16,7 +16,7 @@ hook global FocusOut .* %{
     set-face window PrimaryCursorEol InactiveCursor
     set-face window SecondaryCursor InactiveCursor
     set-face window SecondaryCursorEol InactiveCursor
-    set-face window LineNumberCursor default,default
+    set-face window LineNumberCursor LineNumbers
     set-face window PrimarySelection InactiveCursor
     set-face window SecondarySelection InactiveCursor
 }
