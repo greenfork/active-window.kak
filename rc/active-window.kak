@@ -1,6 +1,8 @@
 set-face global InactiveCursor default,bright-black
 
 hook global FocusIn .* %{
+    # Here first PrimaryCursor is the name of the face we want to set and
+    # second PrimaryCursor is the color which is set by your color scheme.
     set-face window PrimaryCursor PrimaryCursor
     set-face window PrimaryCursorEol PrimaryCursorEol
     set-face window SecondaryCursor SecondaryCursor
