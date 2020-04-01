@@ -8,6 +8,8 @@ hook global FocusIn .* %{
     set-face window SecondaryCursor SecondaryCursor
     set-face window SecondaryCursorEol SecondaryCursorEol
     set-face window LineNumberCursor LineNumberCursor
+    set-face window PrimarySelection PrimarySelection
+    set-face window SecondarySelection SecondarySelection
 }
 hook global FocusOut .* %{
     set-face window PrimaryCursor InactiveCursor
@@ -15,4 +17,6 @@ hook global FocusOut .* %{
     set-face window SecondaryCursor InactiveCursor
     set-face window SecondaryCursorEol InactiveCursor
     set-face window LineNumberCursor default,default
+    set-face window PrimarySelection InactiveCursor
+    set-face window SecondarySelection InactiveCursor
 }
